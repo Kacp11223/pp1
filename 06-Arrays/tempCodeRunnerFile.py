@@ -1,0 +1,1 @@
+sorted([(len(x),x) for x in aux])

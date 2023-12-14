@@ -1,0 +1,1 @@
+[([print(f"{y + x}",end=' ') if y+x > 9 else print(f" {y + x}",end=' ') for y in range(1, 44, 7)],print()) for x in range(7)]

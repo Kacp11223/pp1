@@ -1,0 +1,1 @@
+[([print(f"{x}", end="") for y in range(x)],print("")) for x in range(10)]

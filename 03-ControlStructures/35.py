@@ -1,0 +1,1 @@
+print(' '.join(['BINGO' if x%3==0 and x%5==0 else 'THREE' if x%3==0 else 'FIVE' if x%5==0   else str(x) for x in range(1,31)]))
